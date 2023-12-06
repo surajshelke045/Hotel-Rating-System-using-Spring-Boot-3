@@ -5,13 +5,26 @@ This repository hosts a comprehensive microservices application developed using 
 
 # Features:
 
- User Service: Manages user-related functionalities.
- Hotel Service: Handles hotel-related operations.
- Rating Service: Focuses on managing and providing ratings for different entities.
- Service Registry: Utilizes Eureka Server for service registration and discovery.
- Feign Client: Implements communication between microservices for streamlined interaction.
- API Gateway: Facilitates a single entry point for external communication.
- Okta Security: Ensures robust security measures using Okta for authentication and authorization.
+# User Service: 
+  Manages user-related functionalities.
+   
+# Hotel Service:
+  Handles hotel-related operations.
+   
+# Rating Service:
+  Focuses on managing and providing ratings for different entities.
+ 
+# Service Registry:
+  Utilizes Eureka Server for service registration and discovery.
+ 
+# Feign Client:
+  Implements communication between microservices for streamlined interaction.
+ 
+# API Gateway:
+  Facilitates a single entry point for external communication.
+ 
+# Okta Security:
+  Ensures robust security measures using Okta for authentication and authorization.
 
 # Technologies Used:
 
